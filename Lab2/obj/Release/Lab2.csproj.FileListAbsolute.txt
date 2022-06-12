@@ -1,0 +1,10 @@
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\bin\Release\Lab2.exe.config
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\bin\Release\Lab2.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\bin\Release\Lab2.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.csprojAssemblyReference.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.Form1.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.Properties.Resources.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab2\obj\Release\Lab2.pdb
