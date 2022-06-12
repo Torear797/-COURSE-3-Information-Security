@@ -1,0 +1,20 @@
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\bin\Debug\Lab6.exe
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.exe
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\Lab6\obj\Debug\Lab6.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\bin\Debug\Lab6.exe.config
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\bin\Debug\Lab6.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\bin\Debug\Lab6.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.Form1.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab6\obj\Debug\Lab6.pdb
