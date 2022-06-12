@@ -1,0 +1,20 @@
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\bin\Debug\Lab3.exe.config
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\bin\Debug\Lab3.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\bin\Debug\Lab3.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.Form1.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.exe
+C:\Users\Тореар\Desktop\IS\IS\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Тореар\Desktop\IS\IS\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Тореар\Desktop\IS\IS\Lab3\bin\Debug\Lab3.exe
+C:\Users\Тореар\Desktop\IS\IS\Lab3\bin\Debug\Lab3.pdb

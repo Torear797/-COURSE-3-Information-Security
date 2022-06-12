@@ -1,0 +1,10 @@
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\bin\Debug\IS-4.exe.config
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\bin\Debug\IS-4.exe
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\bin\Debug\IS-4.pdb
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS-4.csprojAssemblyReference.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS_4.Form1.resources
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS_4.Properties.Resources.resources
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS-4.csproj.GenerateResource.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS-4.csproj.CoreCompileInputs.cache
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS-4.exe
+C:\Users\Тореар\Desktop\GIT\artem314\IS-4\IS-4\obj\Debug\IS-4.pdb

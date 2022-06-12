@@ -1,0 +1,10 @@
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\bin\Debug\IS-4.exe.config
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\bin\Debug\IS-4.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\bin\Debug\IS-4.pdb
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\IS_4.Form1.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\IS_4.Properties.Resources.resources
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\IS-4.exe
+E:\Programs\YandexDisk\Projects C#\IB_Labs\Lab4\obj\Debug\IS-4.pdb
